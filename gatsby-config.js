@@ -32,7 +32,7 @@ const queries = [
 
 module.exports = {
   // pathPrefix: config.pathPrefix,
-
+  pathPrefix: "/stupidsam",
   // If you want a Search page, put this back in plugins:
   /*
     {
